@@ -12,61 +12,23 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 
-## 🔐 My DevSecOps Arsenal
+## 🔐 DevSecOps Toolchain
 
-### **SAST (Static Application Security Testing)**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [Semgrep](https://semgrep.dev/) | Lightweight static analysis (multi-language) | ![Semgrep](https://img.shields.io/badge/-Semgrep-000000?logo=semgrep&logoColor=white) |
-| [SonarQube](https://www.sonarqube.org/) | Code quality & security analysis | ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
-| [Checkmarx](https://checkmarx.com/) | Enterprise-grade SAST | ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white) |
+### **Security Testing**
+![Semgrep](https://img.shields.io/badge/-Semgrep-000000?logo=semgrep&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white)  
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white)
 
+### **Infrastructure Security**
+![Terrascan](https://img.shields.io/badge/-Terrascan-623CE4?logo=terraform&logoColor=white) ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white) ![KICS](https://img.shields.io/badge/-KICS-00B388?logo=checkmarx&logoColor=white)  
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
 
-### **DAST (Dynamic Application Security Testing)**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [OWASP ZAP](https://www.zaproxy.org/) | Automated web app scanner | ![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white) |
-| [Burp Suite](https://portswigger.net/burp) | Manual web testing (Pro for CI) | ![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) |
-| [Nuclei](https://nuclei.projectdiscovery.io/) | YAML-based vulnerability scanning | ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white) |
+### **CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 
-### **SCA (Software Composition Analysis)**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [Snyk](https://snyk.io/) | Open-source vulnerability scanning | ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white) |
-| [Trivy](https://github.com/aquasecurity/trivy) | Container/IaC scanning (OSS) | ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) |
-
-### **Infrastructure as Code (IaC) Security**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [Terrascan](https://github.com/accurics/terrascan) | Terraform misconfiguration scanner | ![Terrascan](https://img.shields.io/badge/-Terrascan-623CE4?logo=terraform&logoColor=white) |
-| [Checkov](https://www.checkov.io/) | Policy-as-code for Terraform/K8s | ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white) |
-| [KICS](https://kics.io/) | IaC scanning by Checkmarx | ![KICS](https://img.shields.io/badge/-KICS-00B388?logo=checkmarx&logoColor=white) |
-
-### **CI/CD Security**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-
-| [Argo Workflows](https://argoproj.github.io/) | Secure Kubernetes-native pipelines | ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white) |
-
-
-**CI/CD & Automation:**  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-
-
-**Monitoring & Logging:**  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
- 
-
-**Scripting & Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
-
-
+### **Monitoring & Languages**
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ## 🛡️ My Penetration Testing Toolkit  
 
 ### **Reconnaissance & Enumeration**  
