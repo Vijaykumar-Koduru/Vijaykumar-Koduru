@@ -8,7 +8,10 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) 
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white)
+![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white)
 
 ## 🔐 My DevSecOps Arsenal
 
@@ -18,6 +21,12 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | [Semgrep](https://semgrep.dev/) | Lightweight static analysis (multi-language) | ![Semgrep](https://img.shields.io/badge/-Semgrep-000000?logo=semgrep&logoColor=white) |
 | [SonarQube](https://www.sonarqube.org/) | Code quality & security analysis | ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
 | [Checkmarx](https://checkmarx.com/) | Enterprise-grade SAST | ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white) |
+![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
+![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white)
+ ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white) |
+ ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
+ ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) |
+ ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white)
 
 ### **DAST (Dynamic Application Security Testing)**
 | Tool | Purpose | Badge |
@@ -40,19 +49,8 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | [Checkov](https://www.checkov.io/) | Policy-as-code for Terraform/K8s | ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white) |
 | [KICS](https://kics.io/) | IaC scanning by Checkmarx | ![KICS](https://img.shields.io/badge/-KICS-00B388?logo=checkmarx&logoColor=white) |
 
-### **Container Security**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [Clair](https://github.com/quay/clair) | Container vulnerability analysis | ![Clair](https://img.shields.io/badge/-Clair-000000?logo=quay&logoColor=white) |
-| [Falco](https://falco.org/) | Runtime container monitoring | ![Falco](https://img.shields.io/badge/-Falco-00BC87?logo=falco&logoColor=white) |
-| [Anchore](https://anchore.com/) | Policy-based container scanning | ![Anchore](https://img.shields.io/badge/-Anchore-2496ED?logo=docker&logoColor=white) |
 
-### **Secrets Management**
-| Tool | Purpose | Badge |
-|------|---------|-------|
-| [HashiCorp Vault](https://www.vaultproject.io/) | Centralized secrets management | ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white) |
-| [GitGuardian](https://www.gitguardian.com/) | Secrets detection in Git repos | ![GitGuardian](https://img.shields.io/badge/-GitGuardian-000000?logo=git&logoColor=white) |
-| [SOPS](https://github.com/mozilla/sops) | Encrypted file storage | ![SOPS](https://img.shields.io/badge/-SOPS-000000?logo=mozilla&logoColor=white) |
+
 
 ### **CI/CD Security**
 | Tool | Purpose | Badge |
