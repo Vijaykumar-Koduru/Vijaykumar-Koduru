@@ -33,7 +33,43 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ### **Reconnaissance & Enumeration**  
 ![Nmap](https://img.shields.io/badge/-Nmap-1575F9?logo=gnu-bash&logoColor=white)  
 ![Recon-ng](https://img.shields.io/badge/-Recon--ng-FF6600?logo=python&logoColor=white)  
-![theHarvester](https://img.shields.io/badge/-theHarvester-000000?logo=linux&logoColor=white)  
+![theHarvester](https://img.shields.io/badge/-theHarvester-000000?logo=linux&logoColor=white) 
+## 🔍 Reconnaissance & Enumeration Toolkit
+
+### **Passive Recon** (No direct interaction)
+| Tool | Purpose | Badge |
+|------|---------|-------|
+| [Amass](https://github.com/OWASP/Amass) | Subdomain enumeration, ASN mapping | ![Amass](https://img.shields.io/badge/-Amass-000000?logo=go&logoColor=white) |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) | Automated OSINT aggregation | ![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-FF6600?logo=python&logoColor=white) |
+| [Maltego](https://www.maltego.com/) | Visual link analysis | ![Maltego](https://img.shields.io/badge/-Maltego-000000?logo=maltego&logoColor=white) |
+
+### **Active Scanning**
+| Tool | Purpose | Badge |
+|------|---------|-------|
+| [Nmap](https://nmap.org/) | Network discovery/vuln scanning | ![Nmap](https://img.shields.io/badge/-Nmap-1575F9?logo=gnu-bash&logoColor=white) |
+| [Masscan](https://github.com/robertdavidgraham/masscan) | Ultra-fast port scanner | ![Masscan](https://img.shields.io/badge/-Masscan-000000?logo=linux&logoColor=white) |
+| [RustScan](https://github.com/RustScan/RustScan) | Modern Nmap alternative (Rust) | ![RustScan](https://img.shields.io/badge/-RustScan-DE4D3B?logo=rust&logoColor=white) |
+
+### **Subdomain Enumeration**
+| Tool | Purpose | Badge |
+|------|---------|-------|
+| [Subfinder](https://github.com/projectdiscovery/subfinder) | Fast subdomain discovery | ![Subfinder](https://img.shields.io/badge/-Subfinder-00ADD8?logo=go&logoColor=white) |
+| [Assetfinder](https://github.com/tomnomnom/assetfinder) | Find related domains | ![Assetfinder](https://img.shields.io/badge/-Assetfinder-000000?logo=go&logoColor=white) |
+| [Findomain](https://github.com/Findomain/Findomain) | Cross-platform subdomain scanner | ![Findomain](https://img.shields.io/badge/-Findomain-000000?logo=rust&logoColor=white) |
+
+### **Cloud & API Recon**
+| Tool | Purpose | Badge |
+|------|---------|-------|
+| [CloudBrute](https://github.com/0xsha/CloudBrute) | Cloud infrastructure enum | ![CloudBrute](https://img.shields.io/badge/-CloudBrute-FF9900?logo=amazon-aws&logoColor=white) |
+| [GitDorker](https://github.com/obheda12/GitDorker) | GitHub dorking automation | ![GitDorker](https://img.shields.io/badge/-GitDorker-181717?logo=github&logoColor=white) |
+| [Postman](https://www.postman.com/) | API testing/documentation | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+
+### **Automated Recon Frameworks**
+| Tool | Purpose | Badge |
+|------|---------|-------|
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Full-featured OSINT framework | ![Recon-ng](https://img.shields.io/badge/-Recon--ng-FF6600?logo=python&logoColor=white) |
+| [Sn1per](https://github.com/1N3/Sn1per) | Automated pentest recon | ![Sn1per](https://img.shields.io/badge/-Sn1per-000000?logo=linux&logoColor=white) |
+| [Osmedeus](https://github.com/j3ssie/Osmedeus) | Workflow-driven scanning | ![Osmedeus](https://img.shields.io/badge/-Osmedeus-000000?logo=go&logoColor=white) |
 
 ### **Vulnerability Scanners**  
 ![Nessus](https://img.shields.io/badge/-Nessus-00A98F?logo=tenable&logoColor=white)  
