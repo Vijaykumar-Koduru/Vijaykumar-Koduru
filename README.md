@@ -19,6 +19,22 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 - [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.  
 
 ---
+## 🔧 Tool Matrix
+
+| Category       | Tools                                                                                     |
+|----------------|------------------------------------------------------------------------------------------|
+| **SAST**       | ![Semgrep](https://img.shields.io/badge/-Semgrep-000000) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD) |
+| **DAST**       | ![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000) ![Burp](https://img.shields.io/badge/-Burp_Suite-000000)       |
+| **IaC Security**| ![Terrascan](https://img.shields.io/badge/-Terrascan-623CE4) ![Checkov](https://img.shields.io/badge/-Checkov-000000) |
+| **CI/CD**      | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D) |
+
+## 🔄 DevSecOps Pipeline
+
+```mermaid
+graph LR
+    A[Code<br>![Semgrep](https://img.shields.io/badge/-Semgrep-000000)] --> B[Build<br>![Trivy](https://img.shields.io/badge/-Trivy-1904DA)]
+    B --> C[Deploy<br>![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D)]
+    C --> D[Monitor<br>![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C)]
 
 
 
