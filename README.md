@@ -6,8 +6,6 @@ I'm [Your Name], a **DevOps Engineer** from [Your Location], passionate about au
 
 **Cloud & Platforms:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
@@ -17,12 +15,12 @@ I'm [Your Name], a **DevOps Engineer** from [Your Location], passionate about au
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+
 
 **Monitoring & Logging:**  
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic-stack&logoColor=white)
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+ 
 
 **Scripting & Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
