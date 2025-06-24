@@ -12,6 +12,12 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
 ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white)
 ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white)
+![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
+![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white)
+ ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white) 
+ ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
+ ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white)
+ ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white)
 
 ## 🔐 My DevSecOps Arsenal
 
@@ -21,12 +27,7 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | [Semgrep](https://semgrep.dev/) | Lightweight static analysis (multi-language) | ![Semgrep](https://img.shields.io/badge/-Semgrep-000000?logo=semgrep&logoColor=white) |
 | [SonarQube](https://www.sonarqube.org/) | Code quality & security analysis | ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
 | [Checkmarx](https://checkmarx.com/) | Enterprise-grade SAST | ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white) |
-![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
-![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white)
- ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white) |
- ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
- ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) |
- ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white)
+
 
 ### **DAST (Dynamic Application Security Testing)**
 | Tool | Purpose | Badge |
