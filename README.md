@@ -14,9 +14,9 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white)
 ![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
 ![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) 
- ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
- ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white)
- ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24logo=metasploit&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?logo=burpsuite&logoColor=white) 
@@ -153,5 +153,5 @@ Full-featured OSINT framework | ![Recon-ng](https://img.shields.io/badge/-Recon-
 
 
 ### Let’s Connect! 🤝  
-[![LinkedIn](https://www.linkedin.com/in/vijaykumarkoduru/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarkoduru/)
  
