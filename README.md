@@ -47,8 +47,7 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | Tool | Purpose | Badge |
 |------|---------|-------|
 | [Nmap](https://nmap.org/) | Network discovery/vuln scanning | ![Nmap](https://img.shields.io/badge/-Nmap-1575F9?logo=gnu-bash&logoColor=white) |
-| [Masscan](https://github.com/robertdavidgraham/masscan) | Ultra-fast port scanner | ![Masscan](https://img.shields.io/badge/-Masscan-000000?logo=linux&logoColor=white) |
-| [RustScan](https://github.com/RustScan/RustScan) | Modern Nmap alternative (Rust) | ![RustScan](https://img.shields.io/badge/-RustScan-DE4D3B?logo=rust&logoColor=white) |
+[RustScan](https://img.shields.io/badge/-RustScan-DE4D3B?logo=rust&logoColor=white) |
 
 ### **Subdomain Enumeration**
 | Tool | Purpose | Badge |
@@ -68,12 +67,9 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | Tool | Purpose | Badge |
 |------|---------|-------|
 | [Recon-ng](https://github.com/lanmaster53/recon-ng) | Full-featured OSINT framework | ![Recon-ng](https://img.shields.io/badge/-Recon--ng-FF6600?logo=python&logoColor=white) |
-| [Sn1per](https://github.com/1N3/Sn1per) | Automated pentest recon | ![Sn1per](https://img.shields.io/badge/-Sn1per-000000?logo=linux&logoColor=white) |
-| [Osmedeus](https://github.com/j3ssie/Osmedeus) | Workflow-driven scanning | ![Osmedeus](https://img.shields.io/badge/-Osmedeus-000000?logo=go&logoColor=white) |
 
 ### **Vulnerability Scanners**  
-![Nessus](https://img.shields.io/badge/-Nessus-00A98F?logo=tenable&logoColor=white)  
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-4B8B3E?logo=openvas&logoColor=white)  
+![Nessus](https://img.shields.io/badge/-Nessus-00A98F?logo=tenable&logoColor=white)  ![OpenVAS](https://img.shields.io/badge/-OpenVAS-4B8B3E?logo=openvas&logoColor=white) 
 ![Nikto](https://img.shields.io/badge/-Nikto-000000?logo=linux&logoColor=white)  
 
 ### **Exploitation Frameworks**  
@@ -114,12 +110,8 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 
 ---
 
-### DevOps Blog Posts ✍️  
-- [How to Secure Your Kubernetes Cluster](https://yourblog.com/kubernetes-security)  
-- [Terraform Best Practices for Teams](https://yourblog.com/terraform-tips)  
 
----
 
 ### Let’s Connect! 🤝  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://www.linkedin.com/in/vijaykumarkoduru/)
+ 
