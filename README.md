@@ -12,13 +12,6 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-000000?logo=john-the-ripper&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-000000?logo=hashcat&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-FF0000?logo=gnu-bash&logoColor=white)![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 ---
-
-### My Projects 🛠️  
-- [Terraform AWS EKS Cluster](https://github.com/yourusername/terraform-aws-eks): Automated Kubernetes infrastructure.  
-- [CI/CD Pipeline with ArgoCD & GitHub Actions](https://github.com/yourusername/gitops-argocd): GitOps workflow for zero-downtime deployments.  
-- [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.  
-
----
 ## 🔧 **Tool Matrix**  
 
 ### ☁️ **Cloud & Infrastructure**  
@@ -35,6 +28,13 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 
 ### 📊 **Monitoring & Analysis**  
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+
+### My Projects 🛠️  
+- [Terraform AWS EKS Cluster](https://github.com/yourusername/terraform-aws-eks): Automated Kubernetes infrastructure.  
+- [CI/CD Pipeline with ArgoCD & GitHub Actions](https://github.com/yourusername/gitops-argocd): GitOps workflow for zero-downtime deployments.  
+- [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.  
+
+---
 
 ### Let’s Connect! 🤝  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarkoduru/)
