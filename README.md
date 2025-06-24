@@ -2,33 +2,19 @@
 
 I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automation, cloud-native tech, and scalable infrastructure.  
 
-### My DevSecOps Stack ⚙️  
-
-## 🛡️ Security & DevOps Toolbelt
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white) ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white) ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24?logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) ![SQLmap](https://img.shields.io/badge/-SQLmap-4479A1?logo=sqlmap&logoColor=white) ![WPScan](https://img.shields.io/badge/-WPScan-21759B?logo=wordpress&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?logo=aircrack-ng&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-000000?logo=john-the-ripper&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-000000?logo=hashcat&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-FF0000?logo=gnu-bash&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-
-
-## 🔐 DevSecOps Toolchain
+## 🛡️ DevSecOps Stack
 
 ### **Security Testing**
-![Semgrep](https://img.shields.io/badge/-Semgrep-000000?logo=semgrep&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white)  
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white)
+- <img src="https://raw.githubusercontent.com/semgrep/semgrep-artwork/main/logo/semgrep-icon-dark.svg" width=14> **Semgrep**: Lightweight static analysis  
+- <img src="https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg" width=14> **SonarQube**: Code quality & security  
+- <img src="https://checkmarx.com/wp-content/uploads/2020/04/cx-logo-dark.svg" width=14> **Checkmarx**: Enterprise SAST  
 
 ### **Infrastructure Security**
-![Terrascan](https://img.shields.io/badge/-Terrascan-623CE4?logo=terraform&logoColor=white) ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white) ![KICS](https://img.shields.io/badge/-KICS-00B388?logo=checkmarx&logoColor=white)  
-![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
+- <img src="https://cncf-branding.netlify.app/img/projects/terraform/icon/color/terraform-icon-color.svg" width=14> **Terrascan**: Terraform misconfig scanner  
+- <img src="https://www.checkov.io/img/checkov-logo.svg" width=14> **Checkov**: Policy-as-code for IaC  
+- <img src="https://kics.io/assets/images/logo.png" width=14> **KICS**: Infrastructure scanning  
 
-### **CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-
-### **Monitoring & Languages**
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+*(Add tool links by wrapping in `[ ]`)*
 ## 🛡️ My Penetration Testing Toolkit  
 
 ### **Reconnaissance & Enumeration**  
