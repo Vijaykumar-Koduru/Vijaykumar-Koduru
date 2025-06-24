@@ -32,23 +32,9 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ### My Projects 🛠️  
 - [Terraform AWS EKS Cluster](https://github.com/yourusername/terraform-aws-eks): Automated Kubernetes infrastructure.  
 - [CI/CD Pipeline with ArgoCD & GitHub Actions](https://github.com/yourusername/gitops-argocd): GitOps workflow for zero-downtime deployments.  
-- [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.  
-
+- [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.
+  
 ---
-## 🏗️ **HashiCorp Tool Stack**
-
-### 🔧 **Core Infrastructure Tools**  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&logoColor=white) ![Packer](https://img.shields.io/badge/-Packer-02A8EF?logo=packer&logoColor=white)
-
-### 🔒 **Security & Secrets Management**  
-![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white) ![Boundary](https://img.shields.io/badge/-Boundary-988BCC?logo=boundary&logoColor=white)
-
-### 🚦 **Networking & Service Mesh**  
-![Consul](https://img.shields.io/badge/-Consul-F24C53?logo=consul&logoColor=white) ![Nomad](https://img.shields.io/badge/-Nomad-000000?logo=nomad&logoColor=white)
-
-### 🛠️ **HashiCorp Ecosystem**  
-![Waypoint](https://img.shields.io/badge/-Waypoint-61DAFB?logo=waypoint&logoColor=white) ![Sentinel](https://img.shields.io/badge/-Sentinel-000000?logo=sentinel&logoColor=white)
-
 ### Let’s Connect! 🤝  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarkoduru/)
  
