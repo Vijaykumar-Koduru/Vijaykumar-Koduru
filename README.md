@@ -1,6 +1,6 @@
 # Welcome to my DevOps Journey! 🚀  
 
-I'm [Your Name], a **DevOps Engineer** from [Your Location], passionate about automation, cloud-native tech, and scalable infrastructure.  
+I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automation, cloud-native tech, and scalable infrastructure.  
 
 ### My DevOps Stack ⚙️  
 
