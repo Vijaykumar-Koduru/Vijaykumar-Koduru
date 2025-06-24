@@ -13,11 +13,26 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ![Checkmarx](https://img.shields.io/badge/-Checkmarx-00B388?logo=checkmarx&logoColor=white)
 ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white)
 ![ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)
-![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white)
- ![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?logo=go&logoColor=white) 
+![Burp](https://img.shields.io/badge/-Burp_Suite-000000?logo=burp-suite&logoColor=white) 
  ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white)
  ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white)
- ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white)
+ ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24logo=metasploit&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?logo=burpsuite&logoColor=white) 
+![SQLmap](https://img.shields.io/badge/-SQLmap-4479A1?logo=sqlmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?logo=owasp&logoColor=white)  
+![WPScan](https://img.shields.io/badge/-WPScan-21759B?logo=wordpress&logoColor=white)  
+![Dirb](https://img.shields.io/badge/-Dirb-000000?logo=linux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?logo=aircrackng&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+![Bettercap](https://img.shields.io/badge/-Bettercap-000000?logo=linux&logoColor=white) 
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-000000?logo=john-the-ripper&logoColor=white)  
+![Hashcat](https://img.shields.io/badge/-Hashcat-000000?logo=hashcat&logoColor=white)  
+![Hydra](https://img.shields.io/badge/-Hydra-FF0000?logo=gnu-bash&logoColor=white)  
+
+ 
+
 
 ## 🔐 My DevSecOps Arsenal
 
@@ -39,7 +54,6 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 ### **SCA (Software Composition Analysis)**
 | Tool | Purpose | Badge |
 |------|---------|-------|
-| [Dependabot](https://dependabot.com/) | GitHub-native dependency updates | ![Dependabot](https://img.shields.io/badge/-Dependabot-2088FF?logo=github&logoColor=white) |
 | [Snyk](https://snyk.io/) | Open-source vulnerability scanning | ![Snyk](https://img.shields.io/badge/-Snyk-4C4C73?logo=snyk&logoColor=white) |
 | [Trivy](https://github.com/aquasecurity/trivy) | Container/IaC scanning (OSS) | ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white) |
 
@@ -50,15 +64,12 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 | [Checkov](https://www.checkov.io/) | Policy-as-code for Terraform/K8s | ![Checkov](https://img.shields.io/badge/-Checkov-000000?logo=python&logoColor=white) |
 | [KICS](https://kics.io/) | IaC scanning by Checkmarx | ![KICS](https://img.shields.io/badge/-KICS-00B388?logo=checkmarx&logoColor=white) |
 
-
-
-
 ### **CI/CD Security**
 | Tool | Purpose | Badge |
 |------|---------|-------|
-| [GitHub Advanced Security](https://github.com/features/security) | Built-in code/secret scanning | ![GHAS](https://img.shields.io/badge/-GHAS-2088FF?logo=github&logoColor=white) |
+
 | [Argo Workflows](https://argoproj.github.io/) | Secure Kubernetes-native pipelines | ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white) |
-| [Tekton](https://tekton.dev/) | Cloud-native CI/CD with policies | ![Tekton](https://img.shields.io/badge/-Tekton-FF6D00?logo=tekton&logoColor=white) |
+
 
 **CI/CD & Automation:**  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
